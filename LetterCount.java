@@ -29,7 +29,7 @@ Scanner scan= new Scanner(System.in);
 			}
 		}
 		
-		System.out.println("input:"letter);
+		System.out.println("input:" + letter);
 		
 			}
 }
